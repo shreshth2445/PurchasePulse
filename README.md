@@ -1,4 +1,4 @@
-# Next Purchase Date Predictor
+# Purchase Plus
 
 Predicting when an individual customer will next 
 purchase a specific product using Machine Learning 
